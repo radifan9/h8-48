@@ -1,1 +1,1 @@
-#Python for Data Science by Hacktiv8
+# Introduction to Python for Data Science
